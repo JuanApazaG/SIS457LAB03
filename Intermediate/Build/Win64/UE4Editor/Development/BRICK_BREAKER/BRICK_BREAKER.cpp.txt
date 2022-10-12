@@ -1,0 +1,2 @@
+C:\Users\juana\OneDrive\Escritorio\SIS457\SIS457LAB03\BRICK_BREAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BREAKER\Definitions.BRICK_BREAKER.h
+C:\Users\juana\OneDrive\Escritorio\SIS457\SIS457LAB03\BRICK_BREAKER\Source\BRICK_BREAKER\BRICK_BREAKER.h

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BRICK_BREAKER.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4054F12E-7303-494F-9678-688EBE7233F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BRICK_BREAKER.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BRICK_BREAKEREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5CD8272E-6A52-4507-8EEF-BBE8E7F339F3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BRICK_BREAKER">
+      <UniqueIdentifier>{2F972FA0-79A6-4334-B384-CA9DE79C03B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BRICK_BREAKER\BRICK_BREAKER.Build.cs">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\BRICK_BREAKER.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\BRICK_BREAKER.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\BRICK_BREAKERGameModeBase.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\BRICK_BREAKERGameModeBase.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Capsula.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Capsula.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Contador.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Contador.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Enemigo.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Enemigo.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Escenario.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Escenario.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Ladrillo.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Ladrillo.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Paleta.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Paleta.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Pelota.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Pelota.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BREAKER\Tiempo_Limite.cpp">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BREAKER\Tiempo_Limite.h">
+      <Filter>Source\BRICK_BREAKER</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

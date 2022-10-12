@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BRICK_BREAKER",
+			"Path": "C:\\Users\\juana\\OneDrive\\Escritorio\\SIS457\\SIS457LAB03\\BRICK_BREAKER\\Source\\BRICK_BREAKER.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BRICK_BREAKEREditor",
+			"Path": "C:\\Users\\juana\\OneDrive\\Escritorio\\SIS457\\SIS457LAB03\\BRICK_BREAKER\\Source\\BRICK_BREAKEREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
