@@ -22,7 +22,6 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	virtual void BeginPlay() override;
 	float tamano = 30.0f;
 	float color;
 	float forma = 50.0f;
